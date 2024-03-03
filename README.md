@@ -7,7 +7,7 @@ This project aims to perform a portfolio risk assessment and optimize investment
 
 ## Data Gathering
 
-The data collection is automated using the `yfinance` library to fetch historical adjusted closing prices for a specified list of stocks within a given time frame.
+The data collection is automated using the Yahoo Finance `yfinance` API to fetch historically adjusted closing prices for a specified list of stocks within a given time frame.
 
 ## Portfolio Allocation
 
