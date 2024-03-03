@@ -1,6 +1,3 @@
-# yFinance-Portfolio-Analysis-Optimization
-Investment portfolio analysis using Yahoo Finance API
-
 # Portfolio Risk Assessment and Investment Strategy Optimization with yFinance Data Collection
 
 This project aims to perform a portfolio risk assessment and optimize investment strategy using historical stock data collected from Yahoo Finance (yFinance). It includes data gathering, portfolio allocation, visualization, risk assessment, investment decision-making, and insights derived from the collected data.
